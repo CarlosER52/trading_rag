@@ -1,0 +1,8 @@
+GLOSARIO MAESTRO DE TÉRMINOS FINANCIEROS Y CUANTITATIVOS
+
+- Alpha (α): Medida del rendimiento excessivo de una estrategia o portafolio en relación con el rendimiento de un índice de referencia (benchmark), ajustado por el riesgo asumido.
+- Beta (β): Coeficiente que mide la sensibilidad o volatilidad sistemática de un activo financiero en comparación con el mercado general.
+- High-Water Mark (HWM): El pico máximo de valor de cuenta o equity alcanzado históricamente por un fondo o algoritmo. Es la base de referencia obligatoria para el cálculo de comisiones de rendimiento y drawdowns acumulados.
+- Slippage (Deslizamiento): La diferencia esperada frente a la real entre el precio al que se ejecuta una orden y el precio cotizado en el momento en que se envió la orden al mercado.
+- Spread Bid-Ask: Diferencia entre el precio más alto que un comprador está dispuesto a pagar (Bid) y el precio más bajo que un vendedor está dispuesto a aceptar (Ask) por un activo financiero.
+- Value at Risk (VaR): Estimación estadística de la pérdida máxima esperada en un horizonte temporal específico y bajo un nivel de confianza determinado (ej. 95% o 99%).
