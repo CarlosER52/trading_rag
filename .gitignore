@@ -16,7 +16,6 @@ __pycache__/
 .pytest_cache/
 
 # Archivos de datos locales / temporales / PDFs de documentación interna
-*.pdf
 *.log
 *.sqlite3
 
