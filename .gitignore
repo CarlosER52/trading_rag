@@ -1,0 +1,28 @@
+# Variables de entorno y secretos (CRÍTICO)
+.env
+*.env.local
+
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+.python-version
+
+# Caché y compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Archivos de datos locales / temporales / PDFs de documentación interna
+*.pdf
+*.log
+*.sqlite3
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
